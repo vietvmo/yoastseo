@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/helpers/shortlinker/index.js"],"names":[],"mappings":"AAAA,cAAc,aAAd","file":"index.js","sourcesContent":["export * from \"./singleton\";\n"]}

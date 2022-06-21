@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/worker/transporter/index.js"],"names":["parse","serialize"],"mappings":"AAAA,OAAOA,KAAP,MAAkB,SAAlB;AACA,OAAOC,SAAP,MAAsB,aAAtB;;AAEA,eAAe;AACdD,MADc;AAEdC;AAFc,CAAf","file":"index.js","sourcesContent":["import parse from \"./parse\";\nimport serialize from \"./serialize\";\n\nexport default {\n\tparse,\n\tserialize,\n};\n"]}
